@@ -9,12 +9,11 @@
 <h2 align="center" class="section-heading">🔧 Frameworks and Tools</h2>
 <p>Frameworks and tools simplify the development process by offering reusable and stable components. Here are some I've been utilizing recently:</p>
     <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" /> </a>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git" /> </a>
-    <a href="https://github.com"> <img src="https://skillicons.dev/icons?i=firebase" /> </a>
     <a href="https://nodejs.org/en"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>
-    <a href="https://fastapi.tiangolo.com"> <img src="https://skillicons.dev/icons?i=fastapi" /> </a>
+    <a href="https://firebase.google.com"> <img src="https://skillicons.dev/icons?i=firebase" /> </a>
     <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker" /> </a>
     <a href="https://www.jenkins.io/"> <img src="https://skillicons.dev/icons?i=jenkins" /> </a>
+    <a href="https://github.com/maiyasunil"> <img src="https://skillicons.dev/icons?i=git" /> </a>
     <br>
     <br>
     <a href="https://aws.amazon.com"> <img src="https://skillicons.dev/icons?i=aws" /> </a>
