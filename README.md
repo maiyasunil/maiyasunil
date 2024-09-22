@@ -21,5 +21,3 @@
     <a href="https://cloud.google.com"> <img src="https://skillicons.dev/icons?i=gcp" /> </a>
 
 </div>
-
-<img style="display:none" src="https://komarev.com/ghpvc/?username=maiyasunil&style=for-the-badge" alt="Profile views" />
