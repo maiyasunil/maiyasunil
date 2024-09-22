@@ -1,5 +1,5 @@
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
     <a target="_blank" href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" /> </a>
     <a target="_blank" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /> </a>
     <a target="_blank" href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /> </a>
